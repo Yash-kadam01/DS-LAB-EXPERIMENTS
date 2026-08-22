@@ -1,0 +1,19 @@
+# Ignore compiled executables
+*.exe
+*.out
+*.app
+
+# Ignore object files (intermediate files created during compilation)
+*.o
+*.obj
+
+# Ignore build directories
+build/
+bin/
+obj/
+
+# Ignore OS junk files (if you ever work on a Mac)
+.DS_Store
+
+# Ignore VS Code workspace settings (keeps your personal editor settings private)
+.vscode/

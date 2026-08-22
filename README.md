@@ -1,0 +1,1 @@
+This repository contains C++ laboratory experiments for the Data Structures course. It features practical implementations of OOP concepts, algorithms, and various data structures. The codebase is designed to build a hands-on foundation in algorithmic problem-solving, efficient memory management, and core C++ programming principles for engineering.
